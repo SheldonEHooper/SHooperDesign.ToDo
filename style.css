@@ -1,0 +1,9 @@
+ul>div {
+    display: flex;
+    width: 60%;
+    justify-content: space-between;
+}
+
+.done {
+    text-decoration: line-through;
+}
